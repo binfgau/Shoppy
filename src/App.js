@@ -21,6 +21,7 @@ import {
   ColorPicker,
   ColorMapping,
   Editor,
+  Line,
 } from './pages';
 
 const App = () => {
